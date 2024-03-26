@@ -1,2 +1,2 @@
 # projeto1
-Projeto é uma apresentação do git e github
+Projeto é uma apresentação do <b>git</b> e github
