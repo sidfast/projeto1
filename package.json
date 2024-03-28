@@ -1,0 +1,27 @@
+{
+  "name": "aula1",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido em sala de aula na disciplina Desenvolvimento Web Back-End",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "biblioteca",
+    "livros",
+    "library",
+    "books",
+    "projeto"
+  ],
+  "author": "Sidney",
+  "license": "ISC",
+  "dependencies": {
+    "consign": "^0.1.6",
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
