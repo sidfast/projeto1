@@ -8,7 +8,8 @@ const consign = require('consign');
 module.exports = () => {
 
     const app = express();
-
+    app.use(express.json());
+    
     consign()
         .include('controller')
         .into(app);
